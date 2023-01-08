@@ -16,7 +16,7 @@ This replication package is organized according to the following structure.
 Root
 1. readme.md                  # the file you are reading right now.
 
-2. Data Extraction Form       # a comprehensive data extraction form utilized to extract data for each parameter from each study.
+2. dataExtractionForm       # a comprehensive data extraction form utilized to extract data for each parameter from each study.
 
 3. analysis                   # a folder containing exploration plots, figures, raw data, and analysis scripts.
 

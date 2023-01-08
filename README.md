@@ -12,8 +12,6 @@ For any information, interested researchers can contact us by writing an email t
 # Structure of the replication package
 This replication package is organized according to the following structure.
 
-```
-Root
 1. readme.md                  # the file you are reading right now.
 
 2. dataExtractionForm       # a comprehensive data extraction form utilized to extract data for each parameter from each study.
@@ -31,5 +29,5 @@ Root
 3.2.2 data.csv                # a comma-separated-value textual file created by exporting the extractedData.xlsx Excel spreadsheet.
 
 3.3 scripts                   # a folder containing python scripts for generating bar charts and contingency tables used for horizontal analysis. Each script is self-contained, it does not depend on other scripts, and has been executed via Google Colab.
-```
+
  

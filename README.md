@@ -26,7 +26,7 @@ This replication package is organized according to the following structure.
 
 3.2 rawData                   # a folder containing the raw data extracted from each primary study.
 3.2.1 data.xlsx               # an Excel spreadsheet containing all the extracted data. There you will find a colum for each parameter of the data extraction form and a row for each primary study.
-3.2.2 data.csv                # a comma-separated-value textual file created by exporting the extractedData.xlsx Excel spreadsheet.
+3.2.2 data.csv                # a comma-separated-value textual file created by exporting the data.xlsx Excel spreadsheet.
 
 3.3 scripts                   # a folder containing python scripts for generating bar charts and contingency tables used for horizontal analysis. Each script is self-contained, it does not depend on other scripts, and has been executed via Google Colab.
 ```

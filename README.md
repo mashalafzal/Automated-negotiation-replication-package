@@ -16,9 +16,9 @@ This replication package is organized according to the following structure.
 
 2. dataExtractionForm         # a comprehensive data extraction form utilized to extract data for each parameter from each study.
 
-3. Selected Venues.pdf        # a PDF file containing the list of selected venues
+3. SelectedVenues.pdf        # a PDF file containing the list of selected venues
 
-4. Primary Studies.pdf        # a PDF file containing the list of selected studies
+4. PrimaryStudies.pdf        # a PDF file containing the list of selected studies
 
 5. analysis                   # a folder containing exploration plots, figures, raw data, and analysis scripts.
 

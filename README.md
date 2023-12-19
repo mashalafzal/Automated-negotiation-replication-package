@@ -31,6 +31,6 @@ This replication package is organized according to the following structure.
 5.2.1 data.xlsx               # an Excel spreadsheet containing all the extracted data. There you will find a colum for each parameter of the data extraction form and a row for each primary study.
 5.2.2 data.csv                # a comma-separated-value textual file created by exporting the data.xlsx Excel spreadsheet.
 
-5.3 scripts                   # a folder containing python scripts for generating contingency tables used for horizontal analysis. The script is dependent on the data.csv file taht you can download from rawData folder.
+5.3 scripts                   # a folder containing Jupyter Notebook for generating contingency tables used for horizontal analysis. The notebook is dependent on the data.csv file that you can download from rawData folder.
 ```
  

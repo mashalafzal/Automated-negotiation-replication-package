@@ -16,18 +16,22 @@ This replication package is organized according to the following structure.
 
 2. dataExtractionForm         # a comprehensive data extraction form utilized to extract data for each parameter from each study.
 
-3. analysis                   # a folder containing exploration plots, figures, raw data, and analysis scripts.
+3. Selected Venues.pdf        # a PDF file containing the list of selected venues
 
-3.1 output                    # a folder containing the working plots we used for exploring the extracted data and others figures used in the paper.
-3.1.1 horizontal.pdf          # a PDF file containing the contingency tables we used for the horizontal analysis.
-3.1.2 barcharts.pdf           # a PDF file containing the bar charts we used for explaining the research trends.
-3.1.3 searchProcess.pdf       # a PDF file containing the search process we used for performing the systematic mapping study.
-3.1.4 lifecycle.pdf           # a PDF file containing the life cycle of the automated negotiation agent.
+4. Primary Studies.pdf        # a PDF file containing the list of selected studies
 
-3.2 rawData                   # a folder containing the raw data extracted from each primary study.
-3.2.1 data.xlsx               # an Excel spreadsheet containing all the extracted data. There you will find a colum for each parameter of the data extraction form and a row for each primary study.
-3.2.2 data.csv                # a comma-separated-value textual file created by exporting the data.xlsx Excel spreadsheet.
+5. analysis                   # a folder containing exploration plots, figures, raw data, and analysis scripts.
 
-3.3 scripts                   # a folder containing python scripts for generating bar charts and contingency tables used for horizontal analysis. Each script is self-contained, it does not depend on other scripts, and has been executed via Google Colab.
+5.1 output                    # a folder containing the working plots we used for exploring the extracted data and others figures used in the paper.
+5.1.1 horizontal.pdf          # a PDF file containing the contingency tables we used for the horizontal analysis.
+5.1.2 barcharts.pdf           # a PDF file containing the bar charts we used for explaining the research trends.
+5.1.3 searchProcess.pdf       # a PDF file containing the search process we used for performing the systematic mapping study.
+5.1.4 lifecycle.pdf           # a PDF file containing the life cycle of the automated negotiation agent.
+
+5.2 rawData                   # a folder containing the raw data extracted from each primary study.
+5.2.1 data.xlsx               # an Excel spreadsheet containing all the extracted data. There you will find a colum for each parameter of the data extraction form and a row for each primary study.
+5.2.2 data.csv                # a comma-separated-value textual file created by exporting the data.xlsx Excel spreadsheet.
+
+5.3 scripts                   # a folder containing python scripts for generating bar charts and contingency tables used for horizontal analysis. Each script is self-contained, it does not depend on other scripts, and has been executed via Google Colab.
 ```
  

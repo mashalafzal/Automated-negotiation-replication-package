@@ -4,8 +4,8 @@ Replication Package of the systematic mapping study on automated negotiation for
 This study has been designed, developed, and reported by the following investigators:
 
 - [Mashal Afzal Memon](https://scholar.google.com/citations?user=Mnu_k-8AAAAJ&hl=en) (University of L'Aquila, Italy)
-- [Gian Luca Scoccia](https://scholar.google.com/citations?user=y8EX4DAAAAAJ&hl=en) (University of L'Aquila, Italy)
-- [Marco Autili](https://scholar.google.com/citations?user=s8F7eWIAAAAJ&hl=en&oi=ao) (Gran Sasso Science Institute, Italy)
+- [Gian Luca Scoccia](https://scholar.google.com/citations?user=y8EX4DAAAAAJ&hl=en) (Gran Sasso Science Institute, Italy)
+- [Marco Autili](https://scholar.google.com/citations?user=s8F7eWIAAAAJ&hl=en&oi=ao) University of L'Aquila, Italy)
 
 For any information, interested researchers can contact us by writing an email to [mashalafzal.memon@graduate.univaq.it](mailto:mashalafzal.memon@graduate.univaq.it)
 
